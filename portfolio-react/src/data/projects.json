@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Floral Management System",
+    "imageSrc": "projects/project.png",
+    "description": "Developed an online flower ordering system using Django for backend.",
+    "skills": ["Django", "Python", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/varshini-jm"
+  },
+  {
+    "title": "Course Website",
+    "imageSrc": "projects/project.png",
+    "description": "This is project of ecommerce website where students choose their course",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/varshini-jm"
+  },
+  {
+    "title": " Multiple Disease Detection in pepper leaf",
+    "imageSrc": "projects/project.png",
+    "description": "Detected diseases in pepper leaves using image processing and collecting leaves images from plants",
+    "skills": ["MatLab", "Python"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/varshini-jm"
+  }
+]

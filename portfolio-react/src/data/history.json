@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Fullstack",
+    "organisation": "EKathava Innovation",
+    "startDate": "Aug 2022",
+    "endDate": "Oct 2022",
+    "experiences": ["Collaborated effectively with team members while maintaining a strong sense of individual responsibility.", "Worked on projects using MangoDB, Flask, and REST API"],
+    "imageSrc": "history/Ekathva.jpeg"
+  },
+  {
+    "role": "Frontend",
+    "organisation": "Sparks Foundation",
+    "startDate": "Nov 2021",
+    "endDate": "Dec 2021",
+    "experiences": [" Prioritized and organised tasks to efficiently accomplish service goals.", " Worked under the project ―Bank System redesign"],
+    "imageSrc": "history/spark.png"
+  },
+  {
+    "role": "Frontend Intern",
+    "organisation": "Scontinent",
+    "startDate": "May, 2024",
+    "endDate": "Jun, 2024",
+    "experiences": [
+      "Worked on javascript and react",
+      "Hands on project"
+    ],
+    "imageSrc": "history/Scontinent.jpeg"
+  }
+]
